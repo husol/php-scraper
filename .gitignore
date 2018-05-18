@@ -1,0 +1,8 @@
+#common file
+
+
+#netbeen
+nbproject
+
+#file system on mac
+.DS_Store
